@@ -1,1 +1,1 @@
-practise on scripting
+this is a readme file
